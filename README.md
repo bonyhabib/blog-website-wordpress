@@ -1,2 +1,1 @@
-# blog-website-wordpress
-This is a blog site developed using wordpress
+<strong> NOTE: Run XAMPP/WAMP/LAMPP before accessing the website! </strong>
